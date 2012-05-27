@@ -17,3 +17,5 @@ Munvi ofrece:
 Munvi es una de las pocas comunidades de internet sin administrador. El admistrador solo intervendrá en caso de fallo en el sistema, resolviendo dicho fallo y cediendo todo el poder de nuevo a la comunidad. Un paso firme hacia la democracia directa.
 
 Tanto Munvi como su código están basados en VirtualPOL: www.virtualpol.com
+
+Entrar a Munvi: http://www.munvi.net/
